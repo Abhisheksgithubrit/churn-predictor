@@ -1,0 +1,6 @@
+NOTES:
+
+- Dataset cleaned: Nulls removed, encoded categorical features.
+- Outlier handling not performed yet.
+- Plan to add Streamlit-based web app (app.py)
+- Add model explanations using SHAP or LIME (future scope)
