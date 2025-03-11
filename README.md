@@ -23,3 +23,9 @@ This project aims to analyze customer churn data and visualize insights using Po
 - Churn Distribution (Pie Chart)
 - Churn by Contract (Bar Chart)
 - Monthly Charges vs. Churn (Line Chart)
+
+![Screenshot 2025-03-11 105405](https://github.com/user-attachments/assets/6b589839-a243-4dec-9655-1d6914f00b15)
+
+
+
+
